@@ -215,7 +215,7 @@ body, html {
 	transform: rotate(-90deg);
 	left: 50px;
 	top: 50%;
-	font-size: 45px;
+	font-size: 100px;
 }
 .showcase-navigation > *:hover::before {
 	opacity: .25;
@@ -236,7 +236,7 @@ body, html {
 		opacity: .2;
 	}
 	50% {
-		opacity: .3;
+		opacity: .7;
 	}
 	100% {
 		opacity: .2;
